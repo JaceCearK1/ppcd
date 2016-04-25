@@ -3,6 +3,7 @@ PPCD is very accurate disassembler for PowerPC-based processors. Current support
   * Generic POWERPC-32
   * Generic POWERPC-64
   * Gekko
+  * Broadway
 
 For each model standalone compiled executable is provided. To disassemble binary file, use:
 
