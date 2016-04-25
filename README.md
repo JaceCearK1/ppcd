@@ -11,8 +11,6 @@ ppcd-**model** binary
 Output will go to stdout.
 
 Credits: This program was written by org between 2006-2007 for Gekko debugger. PPCD is free opensource. You can use it in your applications without mention.
-	* Well, I'll do it anyway! ^^
-	* This originally was Andruxa's/ogamespec's code. I (JaceCear) use it now for GCN/Wii(U) RE'ing! :D
 
 Let me know, if you made support for more processors in PPCD.
 
