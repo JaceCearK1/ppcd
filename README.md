@@ -13,6 +13,7 @@ and bug-fixes are looked forward to as well.*
  * Writing code into a file instead of using "printf()"
 
 # TODO:
+ * **Clean-up**
  * Improve performance of branch-detecting
  * Find out what is executed when the Wii U executable branches out of the file. (implement solution after implementing easy .ELF detection)
  
